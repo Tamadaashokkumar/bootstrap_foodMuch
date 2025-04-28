@@ -2,6 +2,9 @@
 
 * {
   font-family: "Roboto";
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
 }
 /* NavBar Section */
 .navbar-image {
